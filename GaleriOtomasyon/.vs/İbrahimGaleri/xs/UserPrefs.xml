@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{00136889-15F6-40A8-B36D-2D98E574B9DD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GaleriOtomasyon/Program.cs">
+    <Files>
+      <File FileName="GaleriOtomasyon/Program.cs" Line="235" Column="1" />
+      <File FileName="GaleriOtomasyon/Galeri.cs" Line="147" Column="35" />
+      <File FileName="GaleriOtomasyon/Araba.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="İbrahimGaleri" expanded="True">
+            <Node name="GaleriOtomasyon" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.GaleriOtomasyon PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

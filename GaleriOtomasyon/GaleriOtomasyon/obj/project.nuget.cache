@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "M2vyEVzz4d1dBvcGlZ5HkIuujMtpT1d39EgIXOOtjKvhYCWATqtjQjUO+HZ9Bjip+hUG/BNu2Vux76jskigTOg==",
+  "success": true,
+  "projectFilePath": "/Users/abk/Documents/GitHub/Auto-Gallery-Management-Project/GaleriOtomasyon/GaleriOtomasyon/GaleriOtomasyon.csproj",
+  "expectedPackageFiles": [
+    "/Users/abk/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/abk/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/abk/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

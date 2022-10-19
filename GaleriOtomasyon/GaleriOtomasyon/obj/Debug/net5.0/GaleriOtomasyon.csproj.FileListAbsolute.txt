@@ -1,0 +1,80 @@
+/Users/abk/Projects/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.csproj.AssemblyReference.cache
+/Users/abk/Projects/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abk/Projects/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.AssemblyInfoInputs.cache
+/Users/abk/Projects/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.AssemblyInfo.cs
+/Users/abk/Projects/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.csproj.CoreCompileInputs.cache
+/Users/abk/Projects/GaleriOtomasyon/GaleriOtomasyon/bin/Debug/net5.0/GaleriOtomasyon
+/Users/abk/Projects/GaleriOtomasyon/GaleriOtomasyon/bin/Debug/net5.0/GaleriOtomasyon.deps.json
+/Users/abk/Projects/GaleriOtomasyon/GaleriOtomasyon/bin/Debug/net5.0/GaleriOtomasyon.runtimeconfig.json
+/Users/abk/Projects/GaleriOtomasyon/GaleriOtomasyon/bin/Debug/net5.0/GaleriOtomasyon.runtimeconfig.dev.json
+/Users/abk/Projects/GaleriOtomasyon/GaleriOtomasyon/bin/Debug/net5.0/GaleriOtomasyon.dll
+/Users/abk/Projects/GaleriOtomasyon/GaleriOtomasyon/bin/Debug/net5.0/GaleriOtomasyon.pdb
+/Users/abk/Projects/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.dll
+/Users/abk/Projects/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/refint/GaleriOtomasyon.dll
+/Users/abk/Projects/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.pdb
+/Users/abk/Projects/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.genruntimeconfig.cache
+/Users/abk/Projects/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/ref/GaleriOtomasyon.dll
+C:/Users/Lenovo/Downloads/GaleriOtomasyon/GaleriOtomasyon/bin/Debug/net5.0/GaleriOtomasyon.exe
+C:/Users/Lenovo/Downloads/GaleriOtomasyon/GaleriOtomasyon/bin/Debug/net5.0/GaleriOtomasyon.deps.json
+C:/Users/Lenovo/Downloads/GaleriOtomasyon/GaleriOtomasyon/bin/Debug/net5.0/GaleriOtomasyon.runtimeconfig.json
+C:/Users/Lenovo/Downloads/GaleriOtomasyon/GaleriOtomasyon/bin/Debug/net5.0/GaleriOtomasyon.runtimeconfig.dev.json
+C:/Users/Lenovo/Downloads/GaleriOtomasyon/GaleriOtomasyon/bin/Debug/net5.0/GaleriOtomasyon.dll
+C:/Users/Lenovo/Downloads/GaleriOtomasyon/GaleriOtomasyon/bin/Debug/net5.0/GaleriOtomasyon.pdb
+C:/Users/Lenovo/Downloads/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.csproj.AssemblyReference.cache
+C:/Users/Lenovo/Downloads/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Lenovo/Downloads/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.AssemblyInfoInputs.cache
+C:/Users/Lenovo/Downloads/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.AssemblyInfo.cs
+C:/Users/Lenovo/Downloads/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.csproj.CoreCompileInputs.cache
+C:/Users/Lenovo/Downloads/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.dll
+C:/Users/Lenovo/Downloads/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/refint/GaleriOtomasyon.dll
+C:/Users/Lenovo/Downloads/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.pdb
+C:/Users/Lenovo/Downloads/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.genruntimeconfig.cache
+C:/Users/Lenovo/Downloads/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/ref/GaleriOtomasyon.dll
+/Users/abk/Desktop/İbrahim Galeri/GaleriOtomasyon/GaleriOtomasyon/bin/Debug/net5.0/GaleriOtomasyon
+/Users/abk/Desktop/İbrahim Galeri/GaleriOtomasyon/GaleriOtomasyon/bin/Debug/net5.0/GaleriOtomasyon.deps.json
+/Users/abk/Desktop/İbrahim Galeri/GaleriOtomasyon/GaleriOtomasyon/bin/Debug/net5.0/GaleriOtomasyon.runtimeconfig.json
+/Users/abk/Desktop/İbrahim Galeri/GaleriOtomasyon/GaleriOtomasyon/bin/Debug/net5.0/GaleriOtomasyon.runtimeconfig.dev.json
+/Users/abk/Desktop/İbrahim Galeri/GaleriOtomasyon/GaleriOtomasyon/bin/Debug/net5.0/GaleriOtomasyon.dll
+/Users/abk/Desktop/İbrahim Galeri/GaleriOtomasyon/GaleriOtomasyon/bin/Debug/net5.0/GaleriOtomasyon.pdb
+/Users/abk/Desktop/İbrahim Galeri/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.csproj.AssemblyReference.cache
+/Users/abk/Desktop/İbrahim Galeri/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abk/Desktop/İbrahim Galeri/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.AssemblyInfoInputs.cache
+/Users/abk/Desktop/İbrahim Galeri/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.AssemblyInfo.cs
+/Users/abk/Desktop/İbrahim Galeri/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.csproj.CoreCompileInputs.cache
+/Users/abk/Desktop/İbrahim Galeri/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.dll
+/Users/abk/Desktop/İbrahim Galeri/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/refint/GaleriOtomasyon.dll
+/Users/abk/Desktop/İbrahim Galeri/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.pdb
+/Users/abk/Desktop/İbrahim Galeri/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.genruntimeconfig.cache
+/Users/abk/Desktop/İbrahim Galeri/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/ref/GaleriOtomasyon.dll
+/Users/abk/Desktop/OtoGaleri/GaleriOtomasyon/GaleriOtomasyon/bin/Debug/net5.0/GaleriOtomasyon
+/Users/abk/Desktop/OtoGaleri/GaleriOtomasyon/GaleriOtomasyon/bin/Debug/net5.0/GaleriOtomasyon.deps.json
+/Users/abk/Desktop/OtoGaleri/GaleriOtomasyon/GaleriOtomasyon/bin/Debug/net5.0/GaleriOtomasyon.runtimeconfig.json
+/Users/abk/Desktop/OtoGaleri/GaleriOtomasyon/GaleriOtomasyon/bin/Debug/net5.0/GaleriOtomasyon.runtimeconfig.dev.json
+/Users/abk/Desktop/OtoGaleri/GaleriOtomasyon/GaleriOtomasyon/bin/Debug/net5.0/GaleriOtomasyon.dll
+/Users/abk/Desktop/OtoGaleri/GaleriOtomasyon/GaleriOtomasyon/bin/Debug/net5.0/GaleriOtomasyon.pdb
+/Users/abk/Desktop/OtoGaleri/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.csproj.AssemblyReference.cache
+/Users/abk/Desktop/OtoGaleri/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abk/Desktop/OtoGaleri/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.AssemblyInfoInputs.cache
+/Users/abk/Desktop/OtoGaleri/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.AssemblyInfo.cs
+/Users/abk/Desktop/OtoGaleri/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.csproj.CoreCompileInputs.cache
+/Users/abk/Desktop/OtoGaleri/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.dll
+/Users/abk/Desktop/OtoGaleri/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/refint/GaleriOtomasyon.dll
+/Users/abk/Desktop/OtoGaleri/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.pdb
+/Users/abk/Desktop/OtoGaleri/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.genruntimeconfig.cache
+/Users/abk/Desktop/OtoGaleri/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/ref/GaleriOtomasyon.dll
+/Users/abk/Siliconmade Projects/SILICONMADE TEMEL PROGRAMLAMA/OtoGaleri/GaleriOtomasyon/GaleriOtomasyon/bin/Debug/net5.0/GaleriOtomasyon
+/Users/abk/Siliconmade Projects/SILICONMADE TEMEL PROGRAMLAMA/OtoGaleri/GaleriOtomasyon/GaleriOtomasyon/bin/Debug/net5.0/GaleriOtomasyon.deps.json
+/Users/abk/Siliconmade Projects/SILICONMADE TEMEL PROGRAMLAMA/OtoGaleri/GaleriOtomasyon/GaleriOtomasyon/bin/Debug/net5.0/GaleriOtomasyon.runtimeconfig.json
+/Users/abk/Siliconmade Projects/SILICONMADE TEMEL PROGRAMLAMA/OtoGaleri/GaleriOtomasyon/GaleriOtomasyon/bin/Debug/net5.0/GaleriOtomasyon.runtimeconfig.dev.json
+/Users/abk/Siliconmade Projects/SILICONMADE TEMEL PROGRAMLAMA/OtoGaleri/GaleriOtomasyon/GaleriOtomasyon/bin/Debug/net5.0/GaleriOtomasyon.dll
+/Users/abk/Siliconmade Projects/SILICONMADE TEMEL PROGRAMLAMA/OtoGaleri/GaleriOtomasyon/GaleriOtomasyon/bin/Debug/net5.0/GaleriOtomasyon.pdb
+/Users/abk/Siliconmade Projects/SILICONMADE TEMEL PROGRAMLAMA/OtoGaleri/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.csproj.AssemblyReference.cache
+/Users/abk/Siliconmade Projects/SILICONMADE TEMEL PROGRAMLAMA/OtoGaleri/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abk/Siliconmade Projects/SILICONMADE TEMEL PROGRAMLAMA/OtoGaleri/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.AssemblyInfoInputs.cache
+/Users/abk/Siliconmade Projects/SILICONMADE TEMEL PROGRAMLAMA/OtoGaleri/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.AssemblyInfo.cs
+/Users/abk/Siliconmade Projects/SILICONMADE TEMEL PROGRAMLAMA/OtoGaleri/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.csproj.CoreCompileInputs.cache
+/Users/abk/Siliconmade Projects/SILICONMADE TEMEL PROGRAMLAMA/OtoGaleri/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.dll
+/Users/abk/Siliconmade Projects/SILICONMADE TEMEL PROGRAMLAMA/OtoGaleri/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/refint/GaleriOtomasyon.dll
+/Users/abk/Siliconmade Projects/SILICONMADE TEMEL PROGRAMLAMA/OtoGaleri/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.pdb
+/Users/abk/Siliconmade Projects/SILICONMADE TEMEL PROGRAMLAMA/OtoGaleri/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/GaleriOtomasyon.genruntimeconfig.cache
+/Users/abk/Siliconmade Projects/SILICONMADE TEMEL PROGRAMLAMA/OtoGaleri/GaleriOtomasyon/GaleriOtomasyon/obj/Debug/net5.0/ref/GaleriOtomasyon.dll

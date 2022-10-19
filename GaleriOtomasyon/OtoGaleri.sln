@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaleriOtomasyon", "GaleriOtomasyon\GaleriOtomasyon.csproj", "{00136889-15F6-40A8-B36D-2D98E574B9DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00136889-15F6-40A8-B36D-2D98E574B9DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00136889-15F6-40A8-B36D-2D98E574B9DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00136889-15F6-40A8-B36D-2D98E574B9DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00136889-15F6-40A8-B36D-2D98E574B9DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90B0B124-6519-43FB-A5FC-2EFE28931C8F}
+	EndGlobalSection
+EndGlobal
